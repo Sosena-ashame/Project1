@@ -1,0 +1,12 @@
+---
+:id: 65922303
+:submitters:
+- :name: Sosena Ashame
+  :email: soa339@g.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-02-21 16:09:45.036874000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-21 08:09:45.036874000 Z
+:status: processed
+:score: 11.8
